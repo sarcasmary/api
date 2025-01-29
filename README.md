@@ -5,3 +5,6 @@ https://www.postman.com/satellite-explorer-45158829/my-workspace/collection/lqb5
 
 Создаю автотесты в Postman
 https://github.com/sarcasmary/api/blob/main/DemoShopping.postman_test_run.json
+
+Создаю коллекцию в Postman для тестирования SOAP-сервиса
+https://www.postman.com/satellite-explorer-45158829/my-workspace/collection/cq3o6ef/soap?action=share&creator=41489149
